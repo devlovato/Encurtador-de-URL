@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * Cadastrar as URLs encurtadas em um banco de dados
 * Listar as informações
 * Atualizar as informaçoes 
-* Deletar as informaçoes d
+* Deletar as informaçoes
 <br>
 <br>
 
