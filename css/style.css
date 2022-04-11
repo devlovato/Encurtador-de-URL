@@ -1,0 +1,98 @@
+
+h1{
+    color:black;
+
+}
+body {
+    height: 100vmin;
+    font-family: 'Montserrat', sans-serif;
+   /* background-image: radial-gradient(circle, #503a65, #8d4773, #c45a6f, #eb7b5e, #f8aa4b);
+    */
+   /* background-image: linear-gradient(to top, #1c2c44, #253656, #304068, #3d4a7a, #4c548c);
+    */
+   /* background-image: linear-gradient(to right top, #1c2c44, #253656, #304068, #3d4a7a, #4c548c);
+    */
+    /* background-image: linear-gradient(to top, #facd60, #bdd36a, #82d288, #48cbab, #1ac0c6); */
+    background-color: #eec0c6;
+    background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
+
+}
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    min-height: 100vh;
+}
+form input[type='text'] {
+    padding: 10px 120px 10px 55px;
+    width: 250px;
+    height: 20px;
+    color:black;
+    text-decoration: none;
+    outline: none;
+    border: 1px solid #ddd;
+    align-items: center;
+    display: inline-block;
+    border-radius: 10px 0 0 10px;
+}
+form input[type='submit'] {
+    padding: 12px;
+    margin: 0;
+    border: 1px solid #ddd;
+    background-color: #FACD60;
+    color: white;
+    border-radius: 0 10px 10px 0;
+}
+form .iconify {
+    position: absolute;
+    width: 50px;
+    padding: 10px;
+    font-size: 23px;
+    color: #f7a325;
+    text-decoration: none;
+}
+.container form {
+    display: flex;
+    align-items: center;
+}
+.card {
+    border-radius:20px;
+    width: 480px;
+    border: 1px solid white;
+    margin-top:30px;
+    display: flex;
+    justify-content: justify;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+    transform: translate(0px);
+    animation: float 5s ease-in-out infinite;
+    color:gray;
+    background-color: rgba(255, 255, 255, 0.396);
+}
+@keyframes float{
+    0%,100%{
+        box-shadow:0 5px 15px 0 rgba(0,0,0,.6);
+        transform:translatey(0) 
+   }
+    50%{
+        box-shadow:0 25px 15px 0 rgba(0,0,0,.2);
+        transform:translatey(-20px) 
+   }
+}
+.err{
+    color:rgb(255, 85, 105);
+    text-align: center;
+    margin-top:30px;
+    padding:10px;
+    width:480px;
+    border-radius: 10px;
+    display: flex;
+    background-color: #F8D7DA;
+    justify-content: justify;
+    flex-direction: column;
+}
+.spam{
+    color:black;
+}
