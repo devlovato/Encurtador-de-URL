@@ -6,13 +6,15 @@
 </h1>
 <br> -->
 
+---
+
 ## 🧑‍💻 Demonstração
 
 <br>
 
 [![ClickAssita](https://user-images.githubusercontent.com/99847770/162652870-894083f0-4c55-4707-9002-1176b8321151.png)](https://youtu.be/z_7-DY0EWXw "Assistir no YouTube")
 
-
+---
 
 ## Tecnologias
 
@@ -28,14 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-<br>
-
 ## 💻 Projeto
 
 🔗 Encurtador de URL é uma aplicação Web que utiliza a API Bitly para encurtar URLs extensas.  
 
 <br>
-
 
 ## 🚀 Proximas Implementações
 * Cadastrar as URLs encurtadas em um banco de dados
@@ -44,6 +43,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * Deletar as informaçoes d
 <br>
 <br>
+
+---
 
 ## ⚙ Configuração
 
