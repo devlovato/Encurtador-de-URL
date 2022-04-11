@@ -18,15 +18,13 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-✔️ HTML
 
-✔️ CSS3
 
-✔️ PHP
-
-✔️ API V4 BITLY
-
-✔️ XAMPP
+- [x] HTML
+- [x] CSS3
+- [x] PHP
+- [x] API V4 BITLY
+- [x] XAMPP
 
 ---
 
