@@ -12,15 +12,22 @@
 
 <br>
 
-[![ClickAssita](https://user-images.githubusercontent.com/99847770/162652870-894083f0-4c55-4707-9002-1176b8321151.png)](https://youtu.be/z_7-DY0EWXw "Assistir no YouTube")
+<div style="padding: 10px; width: 800px;margin-left: auto;margin-right: auto;display:inline-block;">
+<img class="gif" src="https://user-images.githubusercontent.com/99847770/162809650-d8fad116-a024-4216-948f-288ad3a528ea.gif" width="260">
+    <!--IMG THUMB-->
+<a href="https://youtu.be/z_7-DY0EWXw"><img class="thumb" src="https://user-images.githubusercontent.com/99847770/162652870-894083f0-4c55-4707-9002-1176b8321151.png" width="400" align="righ"></a>
+
+## 😎 Assista o projeto funcionando, clicando no 🔗 acima
+
+<div>
 
 ---
+
+<!-- [![ClickAssita](https://user-images.githubusercontent.com/99847770/162652870-894083f0-4c55-4707-9002-1176b8321151.png)](https://youtu.be/z_7-DY0EWXw "Assistir no YouTube") -->
 
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-
 
 - [x] HTML
 - [x] CSS3
