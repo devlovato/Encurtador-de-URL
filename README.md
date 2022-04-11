@@ -26,7 +26,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [x] HTML
+- [x] HTML5
 - [x] CSS3
 - [x] PHP
 - [x] API V4 BITLY
