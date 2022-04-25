@@ -8,9 +8,10 @@
 
 
 
+<br>
+
 
 ##  Clique na Imagem para assistir o vídeo ⬇️
-<br>
 
 <div style="width:100%">
 <a href="https://youtu.be/z_7-DY0EWXw">
