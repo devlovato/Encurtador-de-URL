@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/99847770/165176436-3de9432b-ff4c-418d-996f-e1e10154d327.png" alt="img" style="float:left;"></a>
 </div>
 
-<h1>🎨 Layout</h1>
+# 🎨 Layout
 
 ## Tela Principal
 ![Primeira tela](https://user-images.githubusercontent.com/99847770/165177487-1146e946-0092-47ca-8f5f-e57d90344fe5.PNG)
