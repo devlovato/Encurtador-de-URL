@@ -1,7 +1,8 @@
 <!-- # 🔗 ENCURTADOR DE URL -->
 ![Banner Read me Encurtador](https://user-images.githubusercontent.com/99847770/165175168-eb6b9740-9142-4751-be73-5ed87573c151.png)
-## 💻 Sobre o Projeto
 
+## 💻 Sobre o Projeto
+---
 
 ### 🔗 Aplicação Web, consiste na utilização da API Bitly para encurtar URLs extensas.  
 
@@ -31,8 +32,8 @@
 ![Segunda tela](https://user-images.githubusercontent.com/99847770/165177562-e5a3885b-7289-4875-a739-f8767b543a20.PNG)
 
 
----
 ## Tecnologias
+---
 
 <table class="table">
   <thead>
@@ -66,22 +67,18 @@
 </table>
 <br>
 
+## 🚀 Proximas Implementações
+
 ---
 
-
-<br>
-
-## 🚀 Proximas Implementações
 * Cadastrar as URLs encurtadas em um banco de dados
 * Listar as informações
 * Atualizar as informaçoes 
 * Deletar as informaçoes
-<br>
-<br>
-
----
 
 ## ⚙ Configuração
+
+---
 
 <br>
 
