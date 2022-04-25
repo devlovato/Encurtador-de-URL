@@ -10,15 +10,12 @@
 
 
 ##  Clique na Imagem para assistir o vídeo ⬇️
----
 <br>
 
 <div style="width:100%">
 <a href="https://youtu.be/nSBnAsGxp30">
 <img src="https://user-images.githubusercontent.com/99847770/165176436-3de9432b-ff4c-418d-996f-e1e10154d327.png" alt="img" style="float:left;"></a>
 </div>
-
----
 
 ## 🎨 Layout
 ---
