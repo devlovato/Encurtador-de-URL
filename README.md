@@ -91,5 +91,3 @@
 
 5- Por fim, vá até pasta do projeto e procure pelo arquivo 'MetodosDAO.php', e insira o seu token
 >![tokeeeeee](https://user-images.githubusercontent.com/99847770/162646367-90d654b7-c94d-4bbf-8cc7-42d222f21c07.PNG)
-
-
