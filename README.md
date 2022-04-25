@@ -8,8 +8,6 @@
 
 
 
-<br>
-
 
 ##  Clique na Imagem para assistir o vídeo ⬇️
 
