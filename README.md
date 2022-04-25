@@ -3,7 +3,6 @@
 
 ## 💻 Sobre o Projeto
 
----
 
 <h4>🔗 Aplicação Web, consiste na utilização da API Bitly para encurtar URLs extensas. </h4>
 
