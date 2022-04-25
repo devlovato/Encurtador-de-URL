@@ -18,7 +18,7 @@
 </div>
 
 ## 🎨 Layout
----
+
 
 ## Tela Principal
 ![Primeira tela](https://user-images.githubusercontent.com/99847770/165177487-1146e946-0092-47ca-8f5f-e57d90344fe5.PNG)
@@ -29,7 +29,7 @@
 
 
 ## Tecnologias
----
+
 
 <table class="table">
   <thead>
@@ -65,7 +65,7 @@
 
 ## 🚀 Proximas Implementações
 
----
+
 
 * Cadastrar as URLs encurtadas em um banco de dados
 * Listar as informações
@@ -74,7 +74,7 @@
 
 ## ⚙ Configuração
 
----
+
 
 <br>
 
@@ -93,4 +93,4 @@
 5- Por fim, vá até pasta do projeto e procure pelo arquivo 'MetodosDAO.php', e insira o seu token
 >![tokeeeeee](https://user-images.githubusercontent.com/99847770/162646367-90d654b7-c94d-4bbf-8cc7-42d222f21c07.PNG)
 
----
+
