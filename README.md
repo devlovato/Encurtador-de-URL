@@ -2,11 +2,11 @@
 ![Banner Read me Encurtador](https://user-images.githubusercontent.com/99847770/165175168-eb6b9740-9142-4751-be73-5ed87573c151.png)
 
 ## 💻 Sobre o Projeto
+
 ---
 
-### 🔗 Aplicação Web, consiste na utilização da API Bitly para encurtar URLs extensas.  
+<h4>🔗 Aplicação Web, consiste na utilização da API Bitly para encurtar URLs extensas. </h4>
 
-<br>
 
 
 
