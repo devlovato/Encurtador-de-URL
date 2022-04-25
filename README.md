@@ -1,42 +1,73 @@
 <!-- # 🔗 ENCURTADOR DE URL -->
-![Banner projeto](https://user-images.githubusercontent.com/99847770/162649930-c9a60eca-c1ec-4aa2-b0c1-d53cc1d4d39a.png)
-<!-- 
-<h1 align="center">
-   🔗 Encurtador de URL
-</h1>
-<br> -->
+![Banner Read me Encurtador](https://user-images.githubusercontent.com/99847770/165175168-eb6b9740-9142-4751-be73-5ed87573c151.png)
+## 💻 Sobre o Projeto
+
+
+### 🔗 Aplicação Web, consiste na utilização da API Bitly para encurtar URLs extensas.  
+
+<br>
+
+
+
+##  Clique na Imagem para assistir o vídeo ⬇️
+---
+<br>
+
+<div style="width:100%">
+<a href="https://youtu.be/nSBnAsGxp30">
+<img src="https://user-images.githubusercontent.com/99847770/165176436-3de9432b-ff4c-418d-996f-e1e10154d327.png" alt="img" style="float:left;"></a>
+</div>
 
 ---
 
-## 🧑‍💻 Demonstração
-
-<div style="padding: 10px; width: 800px;margin-left: auto;margin-right: auto;display:inline-block;">
-<img class="gif" src="https://user-images.githubusercontent.com/99847770/162809650-d8fad116-a024-4216-948f-288ad3a528ea.gif" width="260">
-    <!--IMG THUMB-->
-<a href="https://youtu.be/z_7-DY0EWXw"><img class="thumb" src="https://user-images.githubusercontent.com/99847770/162652870-894083f0-4c55-4707-9002-1176b8321151.png" width="400" align="righ"></a>
-
-
-<div>
-
+## 🎨 Layout
 ---
 
-<!-- [![ClickAssita](https://user-images.githubusercontent.com/99847770/162652870-894083f0-4c55-4707-9002-1176b8321151.png)](https://youtu.be/z_7-DY0EWXw "Assistir no YouTube") -->
+## Tela Principal
+![Primeira tela](https://user-images.githubusercontent.com/99847770/165177487-1146e946-0092-47ca-8f5f-e57d90344fe5.PNG)
 
+## Tela com a URL Encurtada
+
+![Segunda tela](https://user-images.githubusercontent.com/99847770/165177562-e5a3885b-7289-4875-a739-f8767b543a20.PNG)
+
+
+---
 ## Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [x] HTML5
-- [x] CSS3
-- [x] PHP
-- [x] API V4 BITLY
-- [x] XAMPP
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">💻</th>
+      <th scope="col">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>HTML5</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>CSS3</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>PHP</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>API V4 BITLY</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>XAMPP</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 ---
 
-## 💻 Projeto
-
-🔗 Encurtador de URL é uma aplicação Web que utiliza a API Bitly para encurtar URLs extensas.  
 
 <br>
 
