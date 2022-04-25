@@ -18,7 +18,7 @@
 </div>
 
 ## 🎨 Layout
-
+<br>
 
 ## Tela Principal
 ![Primeira tela](https://user-images.githubusercontent.com/99847770/165177487-1146e946-0092-47ca-8f5f-e57d90344fe5.PNG)
