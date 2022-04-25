@@ -17,13 +17,12 @@
 <img src="https://user-images.githubusercontent.com/99847770/165176436-3de9432b-ff4c-418d-996f-e1e10154d327.png" alt="img" style="float:left;"></a>
 </div>
 
-<h2>🎨 Layout</h2>
+<h1>🎨 Layout</h1>
 
 ## Tela Principal
 ![Primeira tela](https://user-images.githubusercontent.com/99847770/165177487-1146e946-0092-47ca-8f5f-e57d90344fe5.PNG)
 
 ## Tela com a URL Encurtada
-
 ![Segunda tela](https://user-images.githubusercontent.com/99847770/165177562-e5a3885b-7289-4875-a739-f8767b543a20.PNG)
 
 
@@ -91,3 +90,5 @@
 
 5- Por fim, vá até pasta do projeto e procure pelo arquivo 'MetodosDAO.php', e insira o seu token
 >![tokeeeeee](https://user-images.githubusercontent.com/99847770/162646367-90d654b7-c94d-4bbf-8cc7-42d222f21c07.PNG)
+
+
